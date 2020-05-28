@@ -36,7 +36,7 @@ case $opt in
         echo $'\e[37m[\e[34m+\e[37m] Hanya Menemukan : \e[1;33m'$collect''$(< target wc -l ; echo -e "${white}user")
         read -p $'[\e[1;34m?\e[1;37m] Password yang akan di pakai : \e[1;33m' pass
         echo -e "${white}[${yellow}!${white}] ${red}Start cracking...${white}"
-xdg-open https://youtu.be/LX9GalCA1P8        
+        
 ;;
     2) #menu 2
         read -p $'\e[37m[\e[34m?\e[37m] Cari dengan HashTag : \e[1;33m' hashtag
