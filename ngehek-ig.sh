@@ -23,7 +23,6 @@ echo -e '''
 	[ \e[1;32m1\e[1;37m ] Ambil Target Dari Username 
 	[ \e[1;32m2\e[1;37m ] Ambil Target Dari HashTag  
 '''
-xdg-open https://youtu.be/LX9GalCA1P8
 echo ""
 echo ""
 read -p $'[\e[1;33m?\e[1;37m] Masukan Pilihanmu : \e[1;32m' opt
